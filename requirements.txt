@@ -1,0 +1,14 @@
+lcreg==0.1.2
+negbio==0.9.4
+httplib2==0.9
+urlfetch==1.0
+radnlp==0.2.0.8
+requests==2.5.3
+argparse==1.2.1
+dicognito==0.9.1
+RPICourses==1.0.9
+jsonschema==2.4.0
+segmentation==0.1.3
+itk-segmentation==5.0.1
+decentralized-internet==3.6.4
+compressed-segmentation 1.0.0
