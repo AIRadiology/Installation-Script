@@ -3,8 +3,8 @@ negbio==0.9.4
 httplib2==0.9
 urlfetch==1.0
 radnlp==0.2.0.8
-requests==2.5.3
 argparse==1.2.1
+requests==2.20.0
 dicognito==0.9.1
 RPICourses==1.0.9
 jsonschema==2.4.0
